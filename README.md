@@ -3,8 +3,7 @@
   Hi, I'm <strong>Eldhose Babu</strong>  
 </h1>  <h3>Application Developer | Ionic • Python • Flutter</h3>  <div align="left">  
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />    <p>  
-    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.    
-    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.  
+    I’m an Application Developer with a strong focus on Ionic and cross-platform mobile development. I design and build scalable, performance-driven applications with clean architecture and intuitive user experiences. From frontend UI precision to backend integration, I develop digital products that are efficient, reliable, and user-centered.  
   </p>    <p>  
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />  
     <a href="mailto:eldhosebabu05@gmail.com"><img src="https://img.shields.io/badge/📧eldhosebabu05@gmail.com-1e1e2e?style=for-the-badge" /></a>  
